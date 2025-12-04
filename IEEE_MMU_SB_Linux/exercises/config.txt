@@ -1,0 +1,3 @@
+# Change ENABLE=0 to ENABLE=1
+ENABLE=0
+USERNAME=student

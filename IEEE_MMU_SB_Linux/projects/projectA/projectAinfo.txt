@@ -1,0 +1,20 @@
+
+
+Good morning! 
+
+Good job so far!!
+
+Your task for project A:
+
+   Delete the other files and directories in this project A directory
+
+Then:
+
+   Move 3 files from the exercises directory into the project A directory
+   - move_me.txt
+   - poster.jpg
+   - message.txt
+
+
+   
+

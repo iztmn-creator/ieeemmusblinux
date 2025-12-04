@@ -1,0 +1,5 @@
+Fake hints:
+number=12
+value=88
+secret=2025
+But not the real one.

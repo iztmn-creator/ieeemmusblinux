@@ -1,0 +1,10 @@
+Welcome to project B! 
+
+Your task is to find the secret number and put it in the config.txt file !
+
+
+Look through each txt file in the clues directory 
+
+and try to find the secret number indicated with a !
+
+  

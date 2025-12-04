@@ -1,0 +1,4 @@
+Line 1: You found the correct file!
+Line 2: Look carefully for the marked value.
+Line 3: The number you're looking for is 6!
+Line 4: Put it into config.txt and run the script.
